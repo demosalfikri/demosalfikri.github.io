@@ -1,0 +1,27 @@
+Membuat Web statis menggunakan HTML, CSS, dan Javascript
+
+Yang dibutuhkancprogram ini menggunakan adalah 
+	- Font Popping dari fonts.google.com
+	- feather icon
+	- Gambar 
+	- Vscode
+	- Chrome
+
+Tahapan Coding : 
+ 1. Membuat index.html
+	a. Memanggil Css
+	b. Memanggil Css
+	c. Memanggil Feather Icon
+	d. Memanggil js Feather Icon
+	e. Memanggil Js 
+	f. Membuat Navbar
+
+ 2. Membuat  style.Css
+	a. Memodifikasi Navbar
+
+ 3. Membuat Js
+	a. Memodifikasi Navbar 
+
+git
+https://github.com/demosalfikri/kedai-kopi-kenangan-senja
+		
